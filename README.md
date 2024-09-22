@@ -1,4 +1,4 @@
-# wordpress-layout
+# Wordpress-layout
 Bootstrap, Html, Css
 
 # Home page
